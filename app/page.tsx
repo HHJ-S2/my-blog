@@ -25,6 +25,22 @@ export default function Page() {
         저는 제가 개발한 웹/앱 어플리케이션을 배포하여 사용자에게 피드백을 받고, 수정과 보완을 통해
         완성도 있는 서비스를 만드는 것을 목표로 끊임없이 정진하고 있습니다.
       </p>
+
+      <div className="mt-10">
+        <h3 className="text-sm font-medium text-gray-900 dark:text-white">Contact</h3>
+
+        <div className="mt-4">
+          <ul role="list" className="list-disc space-y-2 pl-4 text-sm">
+            <li className="text-gray-400">
+              <span className="text-gray-600">Email : berdle0122@gmail.com</span>
+            </li>
+            <li className="text-gray-400">
+              <span className="text-gray-600">PH : (82+) 010-9954-3732</span>
+            </li>
+          </ul>
+        </div>
+      </div>
+
       {/* <div className="my-8">
         <BlogPosts />
       </div> */}
