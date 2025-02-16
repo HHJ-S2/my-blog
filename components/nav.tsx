@@ -9,9 +9,6 @@ const navItems = {
   "/blog": {
     name: "blog",
   },
-  // "/guide": {
-  //   name: "guide",
-  // },
   "https://github.com/HHJ-S2": {
     name: "github",
   },
@@ -31,6 +28,7 @@ export function Navbar() {
                 <Link
                   key={path}
                   href={path}
+                  target={name === "github" ? "_blank" : "_self"}
                   className="transition-all hover:text-neutral-800 dark:hover:text-neutral-200 flex align-middle relative py-1 px-2 m-1"
                 >
                   {name}
