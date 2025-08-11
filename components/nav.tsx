@@ -1,6 +1,7 @@
 "use client";
 import Link from "next/link";
 import ThemeToggle from "./theme";
+import { usePathname } from "next/navigation";
 
 const navItems = {
   "/": {
@@ -14,7 +15,17 @@ const navItems = {
   },
 };
 
+const getLinkStyle = (pathname: string, name: string) => {
+  const isActive = (pathname === "/" && name === "home") || pathname.startsWith(`/${name}`);
+  const activeLinkStyle = "text-neutral-800 dark:text-neutral-200";
+  const inActiveLinkStyle = "text-neutral-500 dark:text-neutral-500 hover:text-neutral-800 dark:hover:text-neutral-200";
+
+  return isActive ? activeLinkStyle : inActiveLinkStyle;
+};
+
 export function Navbar() {
+  const pathname = usePathname();
+
   return (
     <aside className="-ml-[8px] mb-16 tracking-tight">
       <div className="lg:sticky lg:top-20">
@@ -29,7 +40,7 @@ export function Navbar() {
                   key={path}
                   href={path}
                   target={name === "github" ? "_blank" : "_self"}
-                  className="transition-all hover:text-neutral-800 dark:hover:text-neutral-200 flex align-middle relative py-1 px-2 m-1"
+                  className={`${getLinkStyle(pathname, name)} transition-all flex align-middle relative py-1 px-2 m-1 `}
                 >
                   {name}
                 </Link>
