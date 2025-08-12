@@ -10,16 +10,16 @@ import { ThemeProvider } from "next-themes";
 export const metadata: Metadata = {
   metadataBase: new URL(baseUrl),
   title: {
-    default: "Any blog",
-    template: "%s | Any blog",
+    default: "__DEV__",
+    template: "%s | __DEV__",
   },
-  description: "개발 블로그",
+  description: "안녕하세요. 프론트엔드 개발자 홍효정입니다.",
   openGraph: {
-    title: "My Portfolio",
-    description: "This is my portfolio.",
+    title: "__DEV__",
+    description: "안녕하세요. 프론트엔드 개발자 홍효정입니다.",
     url: baseUrl,
-    siteName: "My Portfolio",
-    locale: "en_US",
+    siteName: "__DEV__",
+    locale: "ko_KR",
     type: "website",
     images: [
       {
@@ -55,8 +55,8 @@ const cx = (...classes) => classes.filter(Boolean).join(" ");
 
 export default function RootLayout({ children }: { children: React.ReactNode }) {
   return (
-    <html lang="en" suppressHydrationWarning className={cx(GeistSans.variable, GeistMono.variable)}>
-      <body className="antialiased max-w-xl mx-4 mt-8 sm:mx-auto text-black bg-white dark:text-white dark:bg-black">
+    <html lang="ko" suppressHydrationWarning className={cx(GeistSans.variable, GeistMono.variable)}>
+      <body className="antialiased max-w-3xl mx-4 mt-8 sm:mx-auto text-black bg-white dark:text-white dark:bg-black">
         <ThemeProvider attribute="class" defaultTheme="light">
           <main className="flex-auto min-w-0 mt-6 flex flex-col px-2 md:px-0">
             <Navbar />
