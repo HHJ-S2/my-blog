@@ -1,0 +1,4252 @@
+{
+  "object": "page",
+  "id": "24ed25a0-465e-8060-8df0-de16d3b05ec8",
+  "created_time": "2025-08-13T00:53:00.000Z",
+  "last_edited_time": "2025-08-16T08:03:00.000Z",
+  "created_by": {
+    "object": "user",
+    "id": "388d8028-1f48-4bfc-aee5-e43c9255d1e8"
+  },
+  "last_edited_by": {
+    "object": "user",
+    "id": "388d8028-1f48-4bfc-aee5-e43c9255d1e8"
+  },
+  "cover": null,
+  "icon": null,
+  "parent": {
+    "type": "database_id",
+    "database_id": "24dd25a0-465e-80b4-ae99-e3df4874dd02"
+  },
+  "archived": false,
+  "in_trash": false,
+  "properties": {
+    "태그": {
+      "id": "fmhG",
+      "type": "multi_select",
+      "multi_select": [
+        {
+          "id": "54f897a9-e12a-427b-a069-72524c3dc1f0",
+          "name": "APP",
+          "color": "default"
+        },
+        {
+          "id": "749eda81-aa3b-4670-ba74-0992327cd87d",
+          "name": "React Native",
+          "color": "default"
+        }
+      ]
+    },
+    "생성일": {
+      "id": "vC%3E%7C",
+      "type": "created_time",
+      "created_time": "2025-08-13T00:53:00.000Z"
+    },
+    "이름": {
+      "id": "title",
+      "type": "title",
+      "title": [
+        {
+          "type": "text",
+          "text": {
+            "content": "네이티브 모듈 만들기",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "네이티브 모듈 만들기",
+          "href": null
+        }
+      ]
+    }
+  },
+  "url": "https://www.notion.so/24ed25a0465e80608df0de16d3b05ec8",
+  "public_url": null,
+  "request_id": "8bb65504-7149-4912-b97d-23272c834c5f",
+  "blocks": [
+    {
+      "object": "block",
+      "id": "250d25a0-465e-8046-82f0-e072e2550c22",
+      "parent": {
+        "type": "page_id",
+        "page_id": "24ed25a0-465e-8060-8df0-de16d3b05ec8"
+      },
+      "created_time": "2025-08-15T10:55:00.000Z",
+      "last_edited_time": "2025-08-16T07:20:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "388d8028-1f48-4bfc-aee5-e43c9255d1e8"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "388d8028-1f48-4bfc-aee5-e43c9255d1e8"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "heading_1",
+      "heading_1": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "사담",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "사담",
+            "href": null
+          }
+        ],
+        "is_toggleable": false,
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "250d25a0-465e-8044-9c65-e4d689494572",
+      "parent": {
+        "type": "page_id",
+        "page_id": "24ed25a0-465e-8060-8df0-de16d3b05ec8"
+      },
+      "created_time": "2025-08-15T10:41:00.000Z",
+      "last_edited_time": "2025-08-16T06:15:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "388d8028-1f48-4bfc-aee5-e43c9255d1e8"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "388d8028-1f48-4bfc-aee5-e43c9255d1e8"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "최근 회사 업무에 여유가 생기면서, 이 시간을 어떻게 활용할지 고민했다.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "최근 회사 업무에 여유가 생기면서, 이 시간을 어떻게 활용할지 고민했다.",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "251d25a0-465e-8032-aed4-de59d86c76fd",
+      "parent": {
+        "type": "page_id",
+        "page_id": "24ed25a0-465e-8060-8df0-de16d3b05ec8"
+      },
+      "created_time": "2025-08-16T06:15:00.000Z",
+      "last_edited_time": "2025-08-16T06:15:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "388d8028-1f48-4bfc-aee5-e43c9255d1e8"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "388d8028-1f48-4bfc-aee5-e43c9255d1e8"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "그러다 그동안 중요하다고 생각하면서도 계속 미뤄왔던 React Native 네이티브 모듈 개발을 시작해보기로 했다.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "그러다 그동안 중요하다고 생각하면서도 계속 미뤄왔던 React Native 네이티브 모듈 개발을 시작해보기로 했다.",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "250d25a0-465e-80c8-96f9-f69c50029eaa",
+      "parent": {
+        "type": "page_id",
+        "page_id": "24ed25a0-465e-8060-8df0-de16d3b05ec8"
+      },
+      "created_time": "2025-08-15T10:41:00.000Z",
+      "last_edited_time": "2025-08-16T06:15:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "388d8028-1f48-4bfc-aee5-e43c9255d1e8"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "388d8028-1f48-4bfc-aee5-e43c9255d1e8"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "그동안 미뤄왔던 이유를 생각해보면, 오픈소스 라이브러리를 활용하면 대부분의 기능을 구현할 수 있어서 굳이 직접 개발할 필요성을 느끼지 못했던 점이 크다.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "그동안 미뤄왔던 이유를 생각해보면, 오픈소스 라이브러리를 활용하면 대부분의 기능을 구현할 수 있어서 굳이 직접 개발할 필요성을 느끼지 못했던 점이 크다.",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "251d25a0-465e-80ed-9357-cfb0e09eaf5f",
+      "parent": {
+        "type": "page_id",
+        "page_id": "24ed25a0-465e-8060-8df0-de16d3b05ec8"
+      },
+      "created_time": "2025-08-16T06:15:00.000Z",
+      "last_edited_time": "2025-08-16T06:15:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "388d8028-1f48-4bfc-aee5-e43c9255d1e8"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "388d8028-1f48-4bfc-aee5-e43c9255d1e8"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "게다가 쉽게 따라할 수 있는 정리된 튜토리얼도 부족해 시작이 막막했었던것 같다.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "게다가 쉽게 따라할 수 있는 정리된 튜토리얼도 부족해 시작이 막막했었던것 같다.",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "250d25a0-465e-802d-bda6-edd85cfc60ce",
+      "parent": {
+        "type": "page_id",
+        "page_id": "24ed25a0-465e-8060-8df0-de16d3b05ec8"
+      },
+      "created_time": "2025-08-15T10:41:00.000Z",
+      "last_edited_time": "2025-08-16T06:48:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "388d8028-1f48-4bfc-aee5-e43c9255d1e8"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "388d8028-1f48-4bfc-aee5-e43c9255d1e8"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "하지만 최근 ChatGPT 같은 AI LLM 이 크게 발전하면서, 내가 잘 모르는 네이티브 문법이나 구현 방식에 대해서 도움을 받을 수 있게 되었다. 그래서 늦기 전에 일단 도전해보려고 한다! 🐢",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "하지만 최근 ChatGPT 같은 AI LLM 이 크게 발전하면서, 내가 잘 모르는 네이티브 문법이나 구현 방식에 대해서 도움을 받을 수 있게 되었다. 그래서 늦기 전에 일단 도전해보려고 한다! 🐢",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "250d25a0-465e-80f6-a754-dda9e5531944",
+      "parent": {
+        "type": "page_id",
+        "page_id": "24ed25a0-465e-8060-8df0-de16d3b05ec8"
+      },
+      "created_time": "2025-08-15T10:57:00.000Z",
+      "last_edited_time": "2025-08-15T10:57:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "388d8028-1f48-4bfc-aee5-e43c9255d1e8"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "388d8028-1f48-4bfc-aee5-e43c9255d1e8"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "250d25a0-465e-80fd-a537-d9d12bcadce7",
+      "parent": {
+        "type": "page_id",
+        "page_id": "24ed25a0-465e-8060-8df0-de16d3b05ec8"
+      },
+      "created_time": "2025-08-15T11:07:00.000Z",
+      "last_edited_time": "2025-08-15T11:07:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "388d8028-1f48-4bfc-aee5-e43c9255d1e8"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "388d8028-1f48-4bfc-aee5-e43c9255d1e8"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "250d25a0-465e-8044-ad03-e583e81d8abf",
+      "parent": {
+        "type": "page_id",
+        "page_id": "24ed25a0-465e-8060-8df0-de16d3b05ec8"
+      },
+      "created_time": "2025-08-15T11:07:00.000Z",
+      "last_edited_time": "2025-08-15T11:10:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "388d8028-1f48-4bfc-aee5-e43c9255d1e8"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "388d8028-1f48-4bfc-aee5-e43c9255d1e8"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "heading_1",
+      "heading_1": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "iOS Native Module (from. Docs)",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "iOS Native Module (from. Docs)",
+            "href": null
+          }
+        ],
+        "is_toggleable": false,
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "250d25a0-465e-80ec-b4dc-c8d8da3611bc",
+      "parent": {
+        "type": "page_id",
+        "page_id": "24ed25a0-465e-8060-8df0-de16d3b05ec8"
+      },
+      "created_time": "2025-08-15T10:43:00.000Z",
+      "last_edited_time": "2025-08-16T05:21:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "388d8028-1f48-4bfc-aee5-e43c9255d1e8"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "388d8028-1f48-4bfc-aee5-e43c9255d1e8"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "quote",
+      "quote": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "React Native (New Archtecture) cli 로 ",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "React Native (New Archtecture) cli 로 ",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": "Native Module",
+              "link": {
+                "url": "https://reactnative.dev/docs/turbo-native-modules-introduction"
+              }
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Native Module",
+            "href": "https://reactnative.dev/docs/turbo-native-modules-introduction"
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": " 가이드를 따라가는 과정입니다.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": " 가이드를 따라가는 과정입니다.",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "250d25a0-465e-8007-969f-f00c6c4d43ee",
+      "parent": {
+        "type": "page_id",
+        "page_id": "24ed25a0-465e-8060-8df0-de16d3b05ec8"
+      },
+      "created_time": "2025-08-15T11:11:00.000Z",
+      "last_edited_time": "2025-08-15T11:11:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "388d8028-1f48-4bfc-aee5-e43c9255d1e8"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "388d8028-1f48-4bfc-aee5-e43c9255d1e8"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "250d25a0-465e-80ef-898e-ca32bdf65b42",
+      "parent": {
+        "type": "page_id",
+        "page_id": "24ed25a0-465e-8060-8df0-de16d3b05ec8"
+      },
+      "created_time": "2025-08-15T10:47:00.000Z",
+      "last_edited_time": "2025-08-15T10:56:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "388d8028-1f48-4bfc-aee5-e43c9255d1e8"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "388d8028-1f48-4bfc-aee5-e43c9255d1e8"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "heading_2",
+      "heading_2": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "프로젝트 생성",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "프로젝트 생성",
+            "href": null
+          }
+        ],
+        "is_toggleable": false,
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "251d25a0-465e-8090-978d-e099cedd3939",
+      "parent": {
+        "type": "page_id",
+        "page_id": "24ed25a0-465e-8060-8df0-de16d3b05ec8"
+      },
+      "created_time": "2025-08-16T08:02:00.000Z",
+      "last_edited_time": "2025-08-16T08:02:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "388d8028-1f48-4bfc-aee5-e43c9255d1e8"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "388d8028-1f48-4bfc-aee5-e43c9255d1e8"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "https://reactnative.dev/docs/getting-started-without-a-framework",
+              "link": {
+                "url": "https://reactnative.dev/docs/getting-started-without-a-framework"
+              }
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "https://reactnative.dev/docs/getting-started-without-a-framework",
+            "href": "https://reactnative.dev/docs/getting-started-without-a-framework"
+          }
+        ],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "250d25a0-465e-80d0-ba26-c565da5a4f9a",
+      "parent": {
+        "type": "page_id",
+        "page_id": "24ed25a0-465e-8060-8df0-de16d3b05ec8"
+      },
+      "created_time": "2025-08-15T10:52:00.000Z",
+      "last_edited_time": "2025-08-15T10:52:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "388d8028-1f48-4bfc-aee5-e43c9255d1e8"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "388d8028-1f48-4bfc-aee5-e43c9255d1e8"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "250d25a0-465e-80fd-b55d-fc442e329257",
+      "parent": {
+        "type": "page_id",
+        "page_id": "24ed25a0-465e-8060-8df0-de16d3b05ec8"
+      },
+      "created_time": "2025-08-15T10:52:00.000Z",
+      "last_edited_time": "2025-08-16T07:21:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "388d8028-1f48-4bfc-aee5-e43c9255d1e8"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "388d8028-1f48-4bfc-aee5-e43c9255d1e8"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "아래 커맨드로 cli 프로젝트를 새로 생성한다.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "아래 커맨드로 cli 프로젝트를 새로 생성한다.",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "250d25a0-465e-8076-8589-cd9126263a82",
+      "parent": {
+        "type": "page_id",
+        "page_id": "24ed25a0-465e-8060-8df0-de16d3b05ec8"
+      },
+      "created_time": "2025-08-15T10:52:00.000Z",
+      "last_edited_time": "2025-08-16T08:02:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "388d8028-1f48-4bfc-aee5-e43c9255d1e8"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "388d8028-1f48-4bfc-aee5-e43c9255d1e8"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "code",
+      "code": {
+        "caption": [],
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "$ npx @react-native-community/cli@latest init <ProjectName>",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "$ npx @react-native-community/cli@latest init <ProjectName>",
+            "href": null
+          }
+        ],
+        "language": "shell"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "251d25a0-465e-8010-9a92-de493b4202af",
+      "parent": {
+        "type": "page_id",
+        "page_id": "24ed25a0-465e-8060-8df0-de16d3b05ec8"
+      },
+      "created_time": "2025-08-16T07:21:00.000Z",
+      "last_edited_time": "2025-08-16T07:21:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "388d8028-1f48-4bfc-aee5-e43c9255d1e8"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "388d8028-1f48-4bfc-aee5-e43c9255d1e8"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "251d25a0-465e-800e-8908-f96f1ca80e8c",
+      "parent": {
+        "type": "page_id",
+        "page_id": "24ed25a0-465e-8060-8df0-de16d3b05ec8"
+      },
+      "created_time": "2025-08-16T05:19:00.000Z",
+      "last_edited_time": "2025-08-16T05:20:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "388d8028-1f48-4bfc-aee5-e43c9255d1e8"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "388d8028-1f48-4bfc-aee5-e43c9255d1e8"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "현재 기준으로 최신버전의 React Native 버전으로 프로젝트가 생성된다.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "현재 기준으로 최신버전의 React Native 버전으로 프로젝트가 생성된다.",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "251d25a0-465e-8065-a703-cd6c5b390486",
+      "parent": {
+        "type": "page_id",
+        "page_id": "24ed25a0-465e-8060-8df0-de16d3b05ec8"
+      },
+      "created_time": "2025-08-16T06:16:00.000Z",
+      "last_edited_time": "2025-08-16T06:16:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "388d8028-1f48-4bfc-aee5-e43c9255d1e8"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "388d8028-1f48-4bfc-aee5-e43c9255d1e8"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "나는 0.81.0 버전을 사용했다.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "나는 0.81.0 버전을 사용했다.",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "250d25a0-465e-80e2-a193-f92896b72b19",
+      "parent": {
+        "type": "page_id",
+        "page_id": "24ed25a0-465e-8060-8df0-de16d3b05ec8"
+      },
+      "created_time": "2025-08-15T10:58:00.000Z",
+      "last_edited_time": "2025-08-15T10:58:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "388d8028-1f48-4bfc-aee5-e43c9255d1e8"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "388d8028-1f48-4bfc-aee5-e43c9255d1e8"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "250d25a0-465e-80a2-8113-dd82d002c255",
+      "parent": {
+        "type": "page_id",
+        "page_id": "24ed25a0-465e-8060-8df0-de16d3b05ec8"
+      },
+      "created_time": "2025-08-15T10:58:00.000Z",
+      "last_edited_time": "2025-08-15T10:58:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "388d8028-1f48-4bfc-aee5-e43c9255d1e8"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "388d8028-1f48-4bfc-aee5-e43c9255d1e8"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "250d25a0-465e-800b-8b7c-e4d6978c0721",
+      "parent": {
+        "type": "page_id",
+        "page_id": "24ed25a0-465e-8060-8df0-de16d3b05ec8"
+      },
+      "created_time": "2025-08-15T10:27:00.000Z",
+      "last_edited_time": "2025-08-15T10:58:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "388d8028-1f48-4bfc-aee5-e43c9255d1e8"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "388d8028-1f48-4bfc-aee5-e43c9255d1e8"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "heading_2",
+      "heading_2": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "패키지 설치",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "패키지 설치",
+            "href": null
+          }
+        ],
+        "is_toggleable": false,
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "250d25a0-465e-8079-b46a-f27f72ef898f",
+      "parent": {
+        "type": "page_id",
+        "page_id": "24ed25a0-465e-8060-8df0-de16d3b05ec8"
+      },
+      "created_time": "2025-08-15T11:00:00.000Z",
+      "last_edited_time": "2025-08-16T08:03:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "388d8028-1f48-4bfc-aee5-e43c9255d1e8"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "388d8028-1f48-4bfc-aee5-e43c9255d1e8"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "기존 pod 설치 커맨드 ",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "기존 pod 설치 커맨드 ",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": "pod install",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": true,
+              "color": "default"
+            },
+            "plain_text": "pod install",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": "를 사용하니 앞으로 대체될 것이라는 deprecated notice 가 있었다. 이런 최신 변경사항들은 염두해두면 좋을것 같다.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "를 사용하니 앞으로 대체될 것이라는 deprecated notice 가 있었다. 이런 최신 변경사항들은 염두해두면 좋을것 같다.",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "251d25a0-465e-8080-8078-eaf8b1b95b1b",
+      "parent": {
+        "type": "page_id",
+        "page_id": "24ed25a0-465e-8060-8df0-de16d3b05ec8"
+      },
+      "created_time": "2025-08-16T08:03:00.000Z",
+      "last_edited_time": "2025-08-16T08:03:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "388d8028-1f48-4bfc-aee5-e43c9255d1e8"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "388d8028-1f48-4bfc-aee5-e43c9255d1e8"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "251d25a0-465e-80bb-8299-eb09e2c044f1",
+      "parent": {
+        "type": "page_id",
+        "page_id": "24ed25a0-465e-8060-8df0-de16d3b05ec8"
+      },
+      "created_time": "2025-08-16T08:03:00.000Z",
+      "last_edited_time": "2025-08-16T08:03:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "388d8028-1f48-4bfc-aee5-e43c9255d1e8"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "388d8028-1f48-4bfc-aee5-e43c9255d1e8"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "자세한 내용의 블로그 글:",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "자세한 내용의 블로그 글:",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "251d25a0-465e-8009-aff8-e3a841aad21e",
+      "parent": {
+        "type": "page_id",
+        "page_id": "24ed25a0-465e-8060-8df0-de16d3b05ec8"
+      },
+      "created_time": "2025-08-16T05:27:00.000Z",
+      "last_edited_time": "2025-08-16T08:03:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "388d8028-1f48-4bfc-aee5-e43c9255d1e8"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "388d8028-1f48-4bfc-aee5-e43c9255d1e8"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "https://thecoderepublic.medium.com/farewell-pod-install-what-react-native-developers-need-to-know-in-2025-8b75addd9c57",
+              "link": {
+                "url": "https://thecoderepublic.medium.com/farewell-pod-install-what-react-native-developers-need-to-know-in-2025-8b75addd9c57"
+              }
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "https://thecoderepublic.medium.com/farewell-pod-install-what-react-native-developers-need-to-know-in-2025-8b75addd9c57",
+            "href": "https://thecoderepublic.medium.com/farewell-pod-install-what-react-native-developers-need-to-know-in-2025-8b75addd9c57"
+          }
+        ],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "250d25a0-465e-801f-8eae-d6faefd98a51",
+      "parent": {
+        "type": "page_id",
+        "page_id": "24ed25a0-465e-8060-8df0-de16d3b05ec8"
+      },
+      "created_time": "2025-08-15T11:19:00.000Z",
+      "last_edited_time": "2025-08-15T11:19:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "388d8028-1f48-4bfc-aee5-e43c9255d1e8"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "388d8028-1f48-4bfc-aee5-e43c9255d1e8"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "250d25a0-465e-80a4-baf3-cd5c1251b6d4",
+      "parent": {
+        "type": "page_id",
+        "page_id": "24ed25a0-465e-8060-8df0-de16d3b05ec8"
+      },
+      "created_time": "2025-08-15T11:11:00.000Z",
+      "last_edited_time": "2025-08-16T05:25:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "388d8028-1f48-4bfc-aee5-e43c9255d1e8"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "388d8028-1f48-4bfc-aee5-e43c9255d1e8"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "pod install",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": true,
+              "color": "default"
+            },
+            "plain_text": "pod install",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": " 대신 아래 커맨드를 사용",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": " 대신 아래 커맨드를 사용",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "250d25a0-465e-8078-9756-dad9d3f858ca",
+      "parent": {
+        "type": "page_id",
+        "page_id": "24ed25a0-465e-8060-8df0-de16d3b05ec8"
+      },
+      "created_time": "2025-08-15T10:59:00.000Z",
+      "last_edited_time": "2025-08-16T06:19:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "388d8028-1f48-4bfc-aee5-e43c9255d1e8"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "388d8028-1f48-4bfc-aee5-e43c9255d1e8"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "code",
+      "code": {
+        "caption": [],
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "# npm 패키지 설치\n$ yarn\n\n# iOS 프로젝트 실행\n$ yarn ios",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "# npm 패키지 설치\n$ yarn\n\n# iOS 프로젝트 실행\n$ yarn ios",
+            "href": null
+          }
+        ],
+        "language": "shell"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "250d25a0-465e-800d-9c60-c3ff0503af8e",
+      "parent": {
+        "type": "page_id",
+        "page_id": "24ed25a0-465e-8060-8df0-de16d3b05ec8"
+      },
+      "created_time": "2025-08-15T11:21:00.000Z",
+      "last_edited_time": "2025-08-15T11:21:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "388d8028-1f48-4bfc-aee5-e43c9255d1e8"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "388d8028-1f48-4bfc-aee5-e43c9255d1e8"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "250d25a0-465e-801c-9e28-e47a06739381",
+      "parent": {
+        "type": "page_id",
+        "page_id": "24ed25a0-465e-8060-8df0-de16d3b05ec8"
+      },
+      "created_time": "2025-08-15T11:06:00.000Z",
+      "last_edited_time": "2025-08-16T05:27:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "388d8028-1f48-4bfc-aee5-e43c9255d1e8"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "388d8028-1f48-4bfc-aee5-e43c9255d1e8"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "만약 수동 설치가 필요하다면 아래 커맨드를 사용",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "만약 수동 설치가 필요하다면 아래 커맨드를 사용",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "250d25a0-465e-8099-a68f-f1fb1ea129ee",
+      "parent": {
+        "type": "page_id",
+        "page_id": "24ed25a0-465e-8060-8df0-de16d3b05ec8"
+      },
+      "created_time": "2025-08-15T11:21:00.000Z",
+      "last_edited_time": "2025-08-16T06:20:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "388d8028-1f48-4bfc-aee5-e43c9255d1e8"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "388d8028-1f48-4bfc-aee5-e43c9255d1e8"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "code",
+      "code": {
+        "caption": [],
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "$ cd ios\n$ bundle install\n$ bundle exec pod install",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "$ cd ios\n$ bundle install\n$ bundle exec pod install",
+            "href": null
+          }
+        ],
+        "language": "shell"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "250d25a0-465e-8063-9f16-ceefdf4bfc1c",
+      "parent": {
+        "type": "page_id",
+        "page_id": "24ed25a0-465e-8060-8df0-de16d3b05ec8"
+      },
+      "created_time": "2025-08-15T11:00:00.000Z",
+      "last_edited_time": "2025-08-15T11:00:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "388d8028-1f48-4bfc-aee5-e43c9255d1e8"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "388d8028-1f48-4bfc-aee5-e43c9255d1e8"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "250d25a0-465e-80ee-92b6-fe7e697952ee",
+      "parent": {
+        "type": "page_id",
+        "page_id": "24ed25a0-465e-8060-8df0-de16d3b05ec8"
+      },
+      "created_time": "2025-08-15T11:24:00.000Z",
+      "last_edited_time": "2025-08-15T11:24:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "388d8028-1f48-4bfc-aee5-e43c9255d1e8"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "388d8028-1f48-4bfc-aee5-e43c9255d1e8"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "250d25a0-465e-8069-89e4-cc6e59e4ee1f",
+      "parent": {
+        "type": "page_id",
+        "page_id": "24ed25a0-465e-8060-8df0-de16d3b05ec8"
+      },
+      "created_time": "2025-08-15T11:24:00.000Z",
+      "last_edited_time": "2025-08-15T11:30:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "388d8028-1f48-4bfc-aee5-e43c9255d1e8"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "388d8028-1f48-4bfc-aee5-e43c9255d1e8"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "heading_2",
+      "heading_2": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "모듈 스펙(사양) 정의",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "모듈 스펙(사양) 정의",
+            "href": null
+          }
+        ],
+        "is_toggleable": false,
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "250d25a0-465e-80e9-9f2b-cff1ab9ae855",
+      "parent": {
+        "type": "page_id",
+        "page_id": "24ed25a0-465e-8060-8df0-de16d3b05ec8"
+      },
+      "created_time": "2025-08-15T11:24:00.000Z",
+      "last_edited_time": "2025-08-16T05:27:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "388d8028-1f48-4bfc-aee5-e43c9255d1e8"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "388d8028-1f48-4bfc-aee5-e43c9255d1e8"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "이 단계에서는 Codegen 사용을 위해 Typescript로 네이티브 모듈에 대한 스펙 파일을 정의한다.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "이 단계에서는 Codegen 사용을 위해 Typescript로 네이티브 모듈에 대한 스펙 파일을 정의한다.",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "251d25a0-465e-80ca-b922-dbccdcb69653",
+      "parent": {
+        "type": "page_id",
+        "page_id": "24ed25a0-465e-8060-8df0-de16d3b05ec8"
+      },
+      "created_time": "2025-08-16T04:43:00.000Z",
+      "last_edited_time": "2025-08-16T04:44:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "388d8028-1f48-4bfc-aee5-e43c9255d1e8"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "388d8028-1f48-4bfc-aee5-e43c9255d1e8"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "callout",
+      "callout": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Codegen이란, Typescript(혹은 Flow)로 작성된 인터페이스 스펙을 기반으로 자동으로 네이티브 코드를 생성해주는 도구이며 이는 New Architecture(Fabric + TurboModules)의 핵심 구성 요소 중 하나이다.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Codegen이란, Typescript(혹은 Flow)로 작성된 인터페이스 스펙을 기반으로 자동으로 네이티브 코드를 생성해주는 도구이며 이는 New Architecture(Fabric + TurboModules)의 핵심 구성 요소 중 하나이다.",
+            "href": null
+          }
+        ],
+        "icon": {
+          "type": "emoji",
+          "emoji": "💡"
+        },
+        "color": "gray_background"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "251d25a0-465e-80aa-bd08-fc4b9b9eb860",
+      "parent": {
+        "type": "page_id",
+        "page_id": "24ed25a0-465e-8060-8df0-de16d3b05ec8"
+      },
+      "created_time": "2025-08-16T04:49:00.000Z",
+      "last_edited_time": "2025-08-16T04:49:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "388d8028-1f48-4bfc-aee5-e43c9255d1e8"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "388d8028-1f48-4bfc-aee5-e43c9255d1e8"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "250d25a0-465e-802f-a121-c3e9531473c0",
+      "parent": {
+        "type": "page_id",
+        "page_id": "24ed25a0-465e-8060-8df0-de16d3b05ec8"
+      },
+      "created_time": "2025-08-15T11:24:00.000Z",
+      "last_edited_time": "2025-08-16T04:59:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "388d8028-1f48-4bfc-aee5-e43c9255d1e8"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "388d8028-1f48-4bfc-aee5-e43c9255d1e8"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "루트 경로에 specs 폴더를 생성하고, 폴더 내부에 NativeLocalStorag.tsx 파일을 추가한다.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "루트 경로에 specs 폴더를 생성하고, 폴더 내부에 NativeLocalStorag.tsx 파일을 추가한다.",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "251d25a0-465e-80ac-bc9e-ed206f977715",
+      "parent": {
+        "type": "page_id",
+        "page_id": "24ed25a0-465e-8060-8df0-de16d3b05ec8"
+      },
+      "created_time": "2025-08-16T04:51:00.000Z",
+      "last_edited_time": "2025-08-16T05:10:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "388d8028-1f48-4bfc-aee5-e43c9255d1e8"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "388d8028-1f48-4bfc-aee5-e43c9255d1e8"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "해당 모듈은 iOS ",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "해당 모듈은 iOS ",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": "UserDefault",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": true,
+              "color": "default"
+            },
+            "plain_text": "UserDefault",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": "에 key-value 형식으로 데이터를 저장, 불러오기, 삭제 하는 간단한 모듈이다.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "에 key-value 형식으로 데이터를 저장, 불러오기, 삭제 하는 간단한 모듈이다.",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "251d25a0-465e-809b-98c6-d79a0b277b65",
+      "parent": {
+        "type": "page_id",
+        "page_id": "24ed25a0-465e-8060-8df0-de16d3b05ec8"
+      },
+      "created_time": "2025-08-16T06:55:00.000Z",
+      "last_edited_time": "2025-08-16T06:55:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "388d8028-1f48-4bfc-aee5-e43c9255d1e8"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "388d8028-1f48-4bfc-aee5-e43c9255d1e8"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "251d25a0-465e-80f0-9b40-dff6f57290e4",
+      "parent": {
+        "type": "page_id",
+        "page_id": "24ed25a0-465e-8060-8df0-de16d3b05ec8"
+      },
+      "created_time": "2025-08-16T04:50:00.000Z",
+      "last_edited_time": "2025-08-16T07:22:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "388d8028-1f48-4bfc-aee5-e43c9255d1e8"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "388d8028-1f48-4bfc-aee5-e43c9255d1e8"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "code",
+      "code": {
+        "caption": [
+          {
+            "type": "text",
+            "text": {
+              "content": "specs/NativeLocalStorage.ts",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "specs/NativeLocalStorage.ts",
+            "href": null
+          }
+        ],
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "import type { TurboModule } from 'react-native';\nimport { TurboModuleRegistry } from 'react-native';\n\nexport interface Spec extends TurboModule {\n  setItem(value: string, key: string): void;\n  getItem(key: string): string | null;\n  removeItem(key: string): void;\n  clear(): void;\n}\n\n// NativeLocalStorage 라는 (터보)네이티브 모듈을 가져오되 없으면 에러를 throw 한다.\nexport default TurboModuleRegistry.getEnforcing<Spec>('NativeLocalStorage');",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "import type { TurboModule } from 'react-native';\nimport { TurboModuleRegistry } from 'react-native';\n\nexport interface Spec extends TurboModule {\n  setItem(value: string, key: string): void;\n  getItem(key: string): string | null;\n  removeItem(key: string): void;\n  clear(): void;\n}\n\n// NativeLocalStorage 라는 (터보)네이티브 모듈을 가져오되 없으면 에러를 throw 한다.\nexport default TurboModuleRegistry.getEnforcing<Spec>('NativeLocalStorage');",
+            "href": null
+          }
+        ],
+        "language": "javascript"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "251d25a0-465e-8023-a7c3-f75c17959c1a",
+      "parent": {
+        "type": "page_id",
+        "page_id": "24ed25a0-465e-8060-8df0-de16d3b05ec8"
+      },
+      "created_time": "2025-08-16T05:10:00.000Z",
+      "last_edited_time": "2025-08-16T05:10:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "388d8028-1f48-4bfc-aee5-e43c9255d1e8"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "388d8028-1f48-4bfc-aee5-e43c9255d1e8"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "251d25a0-465e-80ea-bd0d-ec2251094d1f",
+      "parent": {
+        "type": "page_id",
+        "page_id": "24ed25a0-465e-8060-8df0-de16d3b05ec8"
+      },
+      "created_time": "2025-08-16T05:10:00.000Z",
+      "last_edited_time": "2025-08-16T06:21:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "388d8028-1f48-4bfc-aee5-e43c9255d1e8"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "388d8028-1f48-4bfc-aee5-e43c9255d1e8"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "그리고 package.json에 codegenConfig 관련한 내용을 추가한다.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "그리고 package.json에 codegenConfig 관련한 내용을 추가한다.",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "251d25a0-465e-8079-8872-d1345fd873d0",
+      "parent": {
+        "type": "page_id",
+        "page_id": "24ed25a0-465e-8060-8df0-de16d3b05ec8"
+      },
+      "created_time": "2025-08-16T05:06:00.000Z",
+      "last_edited_time": "2025-08-16T05:08:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "388d8028-1f48-4bfc-aee5-e43c9255d1e8"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "388d8028-1f48-4bfc-aee5-e43c9255d1e8"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "code",
+      "code": {
+        "caption": [
+          {
+            "type": "text",
+            "text": {
+              "content": "package.json",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "package.json",
+            "href": null
+          }
+        ],
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "  \"codegenConfig\": {\n    \"name\": \"NativeLocalStorageSpec\",\n    \"type\": \"modules\",\n    \"jsSrcsDir\": \"specs\",\n    \"ios\": {\n      \"modulesProvider\": {\n        \"NativeLocalStorage\": \"RCTNativeLocalStorage\"\n      }\n    }\n  }",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "  \"codegenConfig\": {\n    \"name\": \"NativeLocalStorageSpec\",\n    \"type\": \"modules\",\n    \"jsSrcsDir\": \"specs\",\n    \"ios\": {\n      \"modulesProvider\": {\n        \"NativeLocalStorage\": \"RCTNativeLocalStorage\"\n      }\n    }\n  }",
+            "href": null
+          }
+        ],
+        "language": "json"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "251d25a0-465e-805d-921d-dc92849db242",
+      "parent": {
+        "type": "page_id",
+        "page_id": "24ed25a0-465e-8060-8df0-de16d3b05ec8"
+      },
+      "created_time": "2025-08-16T05:06:00.000Z",
+      "last_edited_time": "2025-08-16T05:06:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "388d8028-1f48-4bfc-aee5-e43c9255d1e8"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "388d8028-1f48-4bfc-aee5-e43c9255d1e8"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "251d25a0-465e-808d-bfd4-c3257c312353",
+      "parent": {
+        "type": "page_id",
+        "page_id": "24ed25a0-465e-8060-8df0-de16d3b05ec8"
+      },
+      "created_time": "2025-08-16T04:59:00.000Z",
+      "last_edited_time": "2025-08-16T06:45:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "388d8028-1f48-4bfc-aee5-e43c9255d1e8"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "388d8028-1f48-4bfc-aee5-e43c9255d1e8"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "이렇게 스펙 파일 정의 및 package.json 에 관련 설정을 포함하여 모두 작성한 뒤에,",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "이렇게 스펙 파일 정의 및 package.json 에 관련 설정을 포함하여 모두 작성한 뒤에,",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "251d25a0-465e-8046-aebd-dd4c26c589f3",
+      "parent": {
+        "type": "page_id",
+        "page_id": "24ed25a0-465e-8060-8df0-de16d3b05ec8"
+      },
+      "created_time": "2025-08-16T06:08:00.000Z",
+      "last_edited_time": "2025-08-16T06:45:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "388d8028-1f48-4bfc-aee5-e43c9255d1e8"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "388d8028-1f48-4bfc-aee5-e43c9255d1e8"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "pod 수동설치를 진행하거나 앱을 빌드하면",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "pod 수동설치를 진행하거나 앱을 빌드하면",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": " ",
+              "link": null
+            },
+            "annotations": {
+              "bold": true,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": " ",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": "자동으로 네이티브 코드를 생성한다고 한다.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "자동으로 네이티브 코드를 생성한다고 한다.",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "251d25a0-465e-804d-ac4f-f358ad48a979",
+      "parent": {
+        "type": "page_id",
+        "page_id": "24ed25a0-465e-8060-8df0-de16d3b05ec8"
+      },
+      "created_time": "2025-08-16T08:03:00.000Z",
+      "last_edited_time": "2025-08-16T08:03:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "388d8028-1f48-4bfc-aee5-e43c9255d1e8"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "388d8028-1f48-4bfc-aee5-e43c9255d1e8"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "251d25a0-465e-8009-88c1-f6d2b201ae15",
+      "parent": {
+        "type": "page_id",
+        "page_id": "24ed25a0-465e-8060-8df0-de16d3b05ec8"
+      },
+      "created_time": "2025-08-16T05:04:00.000Z",
+      "last_edited_time": "2025-08-16T08:03:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "388d8028-1f48-4bfc-aee5-e43c9255d1e8"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "388d8028-1f48-4bfc-aee5-e43c9255d1e8"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "어떤 경로에 추가되는지 확인:",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "어떤 경로에 추가되는지 확인:",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "251d25a0-465e-80eb-8c82-ccc9f805cd65",
+      "parent": {
+        "type": "page_id",
+        "page_id": "24ed25a0-465e-8060-8df0-de16d3b05ec8"
+      },
+      "created_time": "2025-08-16T06:10:00.000Z",
+      "last_edited_time": "2025-08-16T08:03:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "388d8028-1f48-4bfc-aee5-e43c9255d1e8"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "388d8028-1f48-4bfc-aee5-e43c9255d1e8"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "https://reactnative.dev/docs/the-new-architecture/using-codegen#ios",
+              "link": {
+                "url": "https://reactnative.dev/docs/the-new-architecture/using-codegen#ios"
+              }
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "https://reactnative.dev/docs/the-new-architecture/using-codegen#ios",
+            "href": "https://reactnative.dev/docs/the-new-architecture/using-codegen#ios"
+          }
+        ],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "251d25a0-465e-801f-8921-d3a764b6ce30",
+      "parent": {
+        "type": "page_id",
+        "page_id": "24ed25a0-465e-8060-8df0-de16d3b05ec8"
+      },
+      "created_time": "2025-08-16T06:11:00.000Z",
+      "last_edited_time": "2025-08-16T06:11:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "388d8028-1f48-4bfc-aee5-e43c9255d1e8"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "388d8028-1f48-4bfc-aee5-e43c9255d1e8"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "250d25a0-465e-809f-b028-eac1e8eb74d6",
+      "parent": {
+        "type": "page_id",
+        "page_id": "24ed25a0-465e-8060-8df0-de16d3b05ec8"
+      },
+      "created_time": "2025-08-15T11:00:00.000Z",
+      "last_edited_time": "2025-08-16T06:42:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "388d8028-1f48-4bfc-aee5-e43c9255d1e8"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "388d8028-1f48-4bfc-aee5-e43c9255d1e8"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "heading_2",
+      "heading_2": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "네이티브 코드 구현",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "네이티브 코드 구현",
+            "href": null
+          }
+        ],
+        "is_toggleable": false,
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "251d25a0-465e-80e0-ab0b-c5a98483adaa",
+      "parent": {
+        "type": "page_id",
+        "page_id": "24ed25a0-465e-8060-8df0-de16d3b05ec8"
+      },
+      "created_time": "2025-08-16T06:22:00.000Z",
+      "last_edited_time": "2025-08-16T06:27:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "388d8028-1f48-4bfc-aee5-e43c9255d1e8"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "388d8028-1f48-4bfc-aee5-e43c9255d1e8"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "이제 실제 네이티브 단에서 필요한 로직을 구현해야한다.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "이제 실제 네이티브 단에서 필요한 로직을 구현해야한다.",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "251d25a0-465e-8002-ae0b-d31f9d48e779",
+      "parent": {
+        "type": "page_id",
+        "page_id": "24ed25a0-465e-8060-8df0-de16d3b05ec8"
+      },
+      "created_time": "2025-08-16T06:27:00.000Z",
+      "last_edited_time": "2025-08-16T06:31:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "388d8028-1f48-4bfc-aee5-e43c9255d1e8"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "388d8028-1f48-4bfc-aee5-e43c9255d1e8"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "나는 Docs 에 나와있는 RCTNativeLocalStorage.mm 파일의",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "나는 Docs 에 나와있는 RCTNativeLocalStorage.mm 파일의",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": " ",
+              "link": null
+            },
+            "annotations": {
+              "bold": true,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": " ",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": "Object-C 구현부는 래퍼 역할로만 사용하도록 하고 Swift 파일을 추가해서 연결해주었다.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Object-C 구현부는 래퍼 역할로만 사용하도록 하고 Swift 파일을 추가해서 연결해주었다.",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "251d25a0-465e-802a-8194-fb19755b9c76",
+      "parent": {
+        "type": "page_id",
+        "page_id": "24ed25a0-465e-8060-8df0-de16d3b05ec8"
+      },
+      "created_time": "2025-08-16T06:29:00.000Z",
+      "last_edited_time": "2025-08-16T06:49:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "388d8028-1f48-4bfc-aee5-e43c9255d1e8"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "388d8028-1f48-4bfc-aee5-e43c9255d1e8"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "전적으로 GPT 의 도움을 받아 적용한 코드라 틀린 부분이 있을 수 있으니 주의해야한다.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "전적으로 GPT 의 도움을 받아 적용한 코드라 틀린 부분이 있을 수 있으니 주의해야한다.",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "251d25a0-465e-804b-b3d1-c52abf42dbe4",
+      "parent": {
+        "type": "page_id",
+        "page_id": "24ed25a0-465e-8060-8df0-de16d3b05ec8"
+      },
+      "created_time": "2025-08-16T07:02:00.000Z",
+      "last_edited_time": "2025-08-16T07:04:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "388d8028-1f48-4bfc-aee5-e43c9255d1e8"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "388d8028-1f48-4bfc-aee5-e43c9255d1e8"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "여담이지만 이 단계에서 Object-C 코드상에 에러가 나고 안나고를 계속 반복해서.. 문제를 제대로 파악하기가 힘들었다 (..)",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "여담이지만 이 단계에서 Object-C 코드상에 에러가 나고 안나고를 계속 반복해서.. 문제를 제대로 파악하기가 힘들었다 (..)",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "251d25a0-465e-8054-a310-cce5a34a7171",
+      "parent": {
+        "type": "page_id",
+        "page_id": "24ed25a0-465e-8060-8df0-de16d3b05ec8"
+      },
+      "created_time": "2025-08-16T06:40:00.000Z",
+      "last_edited_time": "2025-08-16T06:40:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "388d8028-1f48-4bfc-aee5-e43c9255d1e8"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "388d8028-1f48-4bfc-aee5-e43c9255d1e8"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "251d25a0-465e-8056-9d11-db3b3da4ea54",
+      "parent": {
+        "type": "page_id",
+        "page_id": "24ed25a0-465e-8060-8df0-de16d3b05ec8"
+      },
+      "created_time": "2025-08-16T06:26:00.000Z",
+      "last_edited_time": "2025-08-16T06:49:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "388d8028-1f48-4bfc-aee5-e43c9255d1e8"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "388d8028-1f48-4bfc-aee5-e43c9255d1e8"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "heading_3",
+      "heading_3": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "순서",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "순서",
+            "href": null
+          }
+        ],
+        "is_toggleable": false,
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "251d25a0-465e-8099-8d1f-f922df20b961",
+      "parent": {
+        "type": "page_id",
+        "page_id": "24ed25a0-465e-8060-8df0-de16d3b05ec8"
+      },
+      "created_time": "2025-08-16T06:10:00.000Z",
+      "last_edited_time": "2025-08-16T06:41:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "388d8028-1f48-4bfc-aee5-e43c9255d1e8"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "388d8028-1f48-4bfc-aee5-e43c9255d1e8"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "numbered_list_item",
+      "numbered_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "ios 경로에 NativeLocalStorage 그룹 생성",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "ios 경로에 NativeLocalStorage 그룹 생성",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "251d25a0-465e-8098-b18e-c2da2e8a09e4",
+      "parent": {
+        "type": "page_id",
+        "page_id": "24ed25a0-465e-8060-8df0-de16d3b05ec8"
+      },
+      "created_time": "2025-08-16T06:10:00.000Z",
+      "last_edited_time": "2025-08-16T06:38:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "388d8028-1f48-4bfc-aee5-e43c9255d1e8"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "388d8028-1f48-4bfc-aee5-e43c9255d1e8"
+      },
+      "has_children": true,
+      "archived": false,
+      "in_trash": false,
+      "type": "numbered_list_item",
+      "numbered_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "그룹 내부에 파일 생성",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "그룹 내부에 파일 생성",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "blocks": [
+        {
+          "object": "block",
+          "id": "251d25a0-465e-8096-bdd0-d767b698aebc",
+          "parent": {
+            "type": "block_id",
+            "block_id": "251d25a0-465e-8098-b18e-c2da2e8a09e4"
+          },
+          "created_time": "2025-08-16T06:24:00.000Z",
+          "last_edited_time": "2025-08-16T06:38:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "388d8028-1f48-4bfc-aee5-e43c9255d1e8"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "388d8028-1f48-4bfc-aee5-e43c9255d1e8"
+          },
+          "has_children": false,
+          "archived": false,
+          "in_trash": false,
+          "type": "numbered_list_item",
+          "numbered_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "New file from template → Cocoa Touch Class → Subclass of: NSObject, Language: Object-C 로 NativeLocalStorage 파일 생성 → h, m 파일 자동 생성 됨",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "New file from template → Cocoa Touch Class → Subclass of: NSObject, Language: Object-C 로 NativeLocalStorage 파일 생성 → h, m 파일 자동 생성 됨",
+                "href": null
+              }
+            ],
+            "color": "default"
+          },
+          "blocks": []
+        }
+      ]
+    },
+    {
+      "object": "block",
+      "id": "251d25a0-465e-808f-93e6-f66ca128e8ad",
+      "parent": {
+        "type": "page_id",
+        "page_id": "24ed25a0-465e-8060-8df0-de16d3b05ec8"
+      },
+      "created_time": "2025-08-16T06:10:00.000Z",
+      "last_edited_time": "2025-08-16T06:24:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "388d8028-1f48-4bfc-aee5-e43c9255d1e8"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "388d8028-1f48-4bfc-aee5-e43c9255d1e8"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "numbered_list_item",
+      "numbered_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "m 파일은 확장자를 mm 으로 변경",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "m 파일은 확장자를 mm 으로 변경",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "251d25a0-465e-8087-af55-eee9cc21fac0",
+      "parent": {
+        "type": "page_id",
+        "page_id": "24ed25a0-465e-8060-8df0-de16d3b05ec8"
+      },
+      "created_time": "2025-08-16T06:32:00.000Z",
+      "last_edited_time": "2025-08-16T06:34:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "388d8028-1f48-4bfc-aee5-e43c9255d1e8"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "388d8028-1f48-4bfc-aee5-e43c9255d1e8"
+      },
+      "has_children": true,
+      "archived": false,
+      "in_trash": false,
+      "type": "numbered_list_item",
+      "numbered_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "RCTNativeLocalStorageImpl.swift 파일 추가",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "RCTNativeLocalStorageImpl.swift 파일 추가",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "blocks": [
+        {
+          "object": "block",
+          "id": "251d25a0-465e-801d-8851-c74b301491b7",
+          "parent": {
+            "type": "block_id",
+            "block_id": "251d25a0-465e-8087-af55-eee9cc21fac0"
+          },
+          "created_time": "2025-08-16T06:32:00.000Z",
+          "last_edited_time": "2025-08-16T06:38:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "388d8028-1f48-4bfc-aee5-e43c9255d1e8"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "388d8028-1f48-4bfc-aee5-e43c9255d1e8"
+          },
+          "has_children": false,
+          "archived": false,
+          "in_trash": false,
+          "type": "numbered_list_item",
+          "numbered_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "이때 Swift 파일 추가시 브리징 헤더 추가 여부를 묻는데 추가 할 것. 파일명은 프로젝트명-Bridging-Header.h 가 되어야 한다.",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "이때 Swift 파일 추가시 브리징 헤더 추가 여부를 묻는데 추가 할 것. 파일명은 프로젝트명-Bridging-Header.h 가 되어야 한다.",
+                "href": null
+              }
+            ],
+            "color": "default"
+          },
+          "blocks": []
+        }
+      ]
+    },
+    {
+      "object": "block",
+      "id": "251d25a0-465e-800b-88ed-ef208550f782",
+      "parent": {
+        "type": "page_id",
+        "page_id": "24ed25a0-465e-8060-8df0-de16d3b05ec8"
+      },
+      "created_time": "2025-08-16T06:34:00.000Z",
+      "last_edited_time": "2025-08-16T06:38:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "388d8028-1f48-4bfc-aee5-e43c9255d1e8"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "388d8028-1f48-4bfc-aee5-e43c9255d1e8"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "numbered_list_item",
+      "numbered_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Codegen으로 생성된 스펙 사양에 맞게 네이티브 로직 작성",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Codegen으로 생성된 스펙 사양에 맞게 네이티브 로직 작성",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "251d25a0-465e-8068-ab10-f80a495cd4ba",
+      "parent": {
+        "type": "page_id",
+        "page_id": "24ed25a0-465e-8060-8df0-de16d3b05ec8"
+      },
+      "created_time": "2025-08-16T06:34:00.000Z",
+      "last_edited_time": "2025-08-16T06:34:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "388d8028-1f48-4bfc-aee5-e43c9255d1e8"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "388d8028-1f48-4bfc-aee5-e43c9255d1e8"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "251d25a0-465e-804c-9322-e93a948ee8f0",
+      "parent": {
+        "type": "page_id",
+        "page_id": "24ed25a0-465e-8060-8df0-de16d3b05ec8"
+      },
+      "created_time": "2025-08-16T06:27:00.000Z",
+      "last_edited_time": "2025-08-16T06:34:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "388d8028-1f48-4bfc-aee5-e43c9255d1e8"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "388d8028-1f48-4bfc-aee5-e43c9255d1e8"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "code",
+      "code": {
+        "caption": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Playground-Bridging-Header.h",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Playground-Bridging-Header.h",
+            "href": null
+          }
+        ],
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "#import \"RCTAppDelegate.h\"",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "#import \"RCTAppDelegate.h\"",
+            "href": null
+          }
+        ],
+        "language": "objective-c"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "251d25a0-465e-8047-98ae-e10fd43b718d",
+      "parent": {
+        "type": "page_id",
+        "page_id": "24ed25a0-465e-8060-8df0-de16d3b05ec8"
+      },
+      "created_time": "2025-08-16T06:34:00.000Z",
+      "last_edited_time": "2025-08-16T06:34:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "388d8028-1f48-4bfc-aee5-e43c9255d1e8"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "388d8028-1f48-4bfc-aee5-e43c9255d1e8"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "251d25a0-465e-80c0-880b-f76bb7dab3ff",
+      "parent": {
+        "type": "page_id",
+        "page_id": "24ed25a0-465e-8060-8df0-de16d3b05ec8"
+      },
+      "created_time": "2025-08-16T06:27:00.000Z",
+      "last_edited_time": "2025-08-16T06:27:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "388d8028-1f48-4bfc-aee5-e43c9255d1e8"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "388d8028-1f48-4bfc-aee5-e43c9255d1e8"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "code",
+      "code": {
+        "caption": [
+          {
+            "type": "text",
+            "text": {
+              "content": "RCTNativeLocalStorage.h",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "RCTNativeLocalStorage.h",
+            "href": null
+          }
+        ],
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "#import <Foundation/Foundation.h>\n#import <NativeLocalStorageSpec/NativeLocalStorageSpec.h>\n\nNS_ASSUME_NONNULL_BEGIN\n\n@interface RCTNativeLocalStorage : NSObject <NativeLocalStorageSpec>\n\n@end\n\nNS_ASSUME_NONNULL_END",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "#import <Foundation/Foundation.h>\n#import <NativeLocalStorageSpec/NativeLocalStorageSpec.h>\n\nNS_ASSUME_NONNULL_BEGIN\n\n@interface RCTNativeLocalStorage : NSObject <NativeLocalStorageSpec>\n\n@end\n\nNS_ASSUME_NONNULL_END",
+            "href": null
+          }
+        ],
+        "language": "objective-c"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "251d25a0-465e-80ba-bf27-f32162c3b60d",
+      "parent": {
+        "type": "page_id",
+        "page_id": "24ed25a0-465e-8060-8df0-de16d3b05ec8"
+      },
+      "created_time": "2025-08-16T06:38:00.000Z",
+      "last_edited_time": "2025-08-16T06:38:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "388d8028-1f48-4bfc-aee5-e43c9255d1e8"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "388d8028-1f48-4bfc-aee5-e43c9255d1e8"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "251d25a0-465e-8026-9034-f461ffe67ff8",
+      "parent": {
+        "type": "page_id",
+        "page_id": "24ed25a0-465e-8060-8df0-de16d3b05ec8"
+      },
+      "created_time": "2025-08-16T06:09:00.000Z",
+      "last_edited_time": "2025-08-16T06:39:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "388d8028-1f48-4bfc-aee5-e43c9255d1e8"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "388d8028-1f48-4bfc-aee5-e43c9255d1e8"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "code",
+      "code": {
+        "caption": [
+          {
+            "type": "text",
+            "text": {
+              "content": "RCTNativeLocalStorage.mm",
+              "link": {
+                "url": "http://rctnativelocalstorage.mm/"
+              }
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "RCTNativeLocalStorage.mm",
+            "href": "http://rctnativelocalstorage.mm/"
+          }
+        ],
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "#import \"RCTNativeLocalStorage.h\"\n#import \"Playground-Swift.h\"\n\n// 클래스의 구현부를 시작한다는 뜻. 구현부를 마치면 @end로 끝낸다\n@implementation RCTNativeLocalStorage {\n  RCTNativeLocalStorageImpl *_impl;\n}\n\n// 이 클래스를 React Native에 모듈로 등록\nRCT_EXPORT_MODULE()\n\n// 생성자 init\n- (instancetype) init {\n  if (self = [super init]) {\n    // _impl에 Swift 구현체 인스턴스를 생성\n    _impl = [RCTNativeLocalStorageImpl new]; // @implementation의 _impl 타입과 일치시켜야함\n  }\n  return self;\n}\n\n- (std::shared_ptr<facebook::react::TurboModule>) getTurboModule:(const facebook::react::ObjCTurboModule::InitParams &)params {\n  return std::make_shared<facebook::react::NativeLocalStorageSpecJSI>(params);\n}\n\n- (NSString * _Nullable) getItem:(NSString *)key {\n  return [_impl getItem:key];\n}\n\n- (void) setItem:(NSString *)value key:(NSString *)key {\n  [_impl setItem:value key:key];\n}\n\n- (void) removeItem:(NSString *)key {\n  [_impl removeItem:key];\n}\n\n- (void) clear {\n  [_impl clear];\n}\n\n@end",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "#import \"RCTNativeLocalStorage.h\"\n#import \"Playground-Swift.h\"\n\n// 클래스의 구현부를 시작한다는 뜻. 구현부를 마치면 @end로 끝낸다\n@implementation RCTNativeLocalStorage {\n  RCTNativeLocalStorageImpl *_impl;\n}\n\n// 이 클래스를 React Native에 모듈로 등록\nRCT_EXPORT_MODULE()\n\n// 생성자 init\n- (instancetype) init {\n  if (self = [super init]) {\n    // _impl에 Swift 구현체 인스턴스를 생성\n    _impl = [RCTNativeLocalStorageImpl new]; // @implementation의 _impl 타입과 일치시켜야함\n  }\n  return self;\n}\n\n- (std::shared_ptr<facebook::react::TurboModule>) getTurboModule:(const facebook::react::ObjCTurboModule::InitParams &)params {\n  return std::make_shared<facebook::react::NativeLocalStorageSpecJSI>(params);\n}\n\n- (NSString * _Nullable) getItem:(NSString *)key {\n  return [_impl getItem:key];\n}\n\n- (void) setItem:(NSString *)value key:(NSString *)key {\n  [_impl setItem:value key:key];\n}\n\n- (void) removeItem:(NSString *)key {\n  [_impl removeItem:key];\n}\n\n- (void) clear {\n  [_impl clear];\n}\n\n@end",
+            "href": null
+          }
+        ],
+        "language": "c++"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "251d25a0-465e-801d-b902-edfe179d14d9",
+      "parent": {
+        "type": "page_id",
+        "page_id": "24ed25a0-465e-8060-8df0-de16d3b05ec8"
+      },
+      "created_time": "2025-08-16T06:39:00.000Z",
+      "last_edited_time": "2025-08-16T06:39:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "388d8028-1f48-4bfc-aee5-e43c9255d1e8"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "388d8028-1f48-4bfc-aee5-e43c9255d1e8"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "251d25a0-465e-803a-86f3-e05024bef3a7",
+      "parent": {
+        "type": "page_id",
+        "page_id": "24ed25a0-465e-8060-8df0-de16d3b05ec8"
+      },
+      "created_time": "2025-08-16T06:39:00.000Z",
+      "last_edited_time": "2025-08-16T06:40:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "388d8028-1f48-4bfc-aee5-e43c9255d1e8"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "388d8028-1f48-4bfc-aee5-e43c9255d1e8"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "code",
+      "code": {
+        "caption": [
+          {
+            "type": "text",
+            "text": {
+              "content": "RCTNativeLocalStorageImpl.swift",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "RCTNativeLocalStorageImpl.swift",
+            "href": null
+          }
+        ],
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "import Foundation\n\n@objcMembers\nfinal class RCTNativeLocalStorageImpl: NSObject {\n    \n    private let storage: UserDefaults\n    \n    override init() {\n        self.storage = UserDefaults(suiteName: \"local-storage\") ?? UserDefaults.standard\n        super.init()\n    }\n    \n    func getItem(_ key: String) -> String? {\n        return storage.string(forKey: key)\n    }\n    \n    func setItem(_ value: String, key: String) {\n        storage.set(value, forKey: key)\n    }\n    \n    func removeItem(_ key: String) {\n        storage.removeObject(forKey: key)\n    }\n    \n    func clear() {\n        for (key, _) in storage.dictionaryRepresentation() {\n            storage.removeObject(forKey: key)\n        }\n    }\n}\n",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "import Foundation\n\n@objcMembers\nfinal class RCTNativeLocalStorageImpl: NSObject {\n    \n    private let storage: UserDefaults\n    \n    override init() {\n        self.storage = UserDefaults(suiteName: \"local-storage\") ?? UserDefaults.standard\n        super.init()\n    }\n    \n    func getItem(_ key: String) -> String? {\n        return storage.string(forKey: key)\n    }\n    \n    func setItem(_ value: String, key: String) {\n        storage.set(value, forKey: key)\n    }\n    \n    func removeItem(_ key: String) {\n        storage.removeObject(forKey: key)\n    }\n    \n    func clear() {\n        for (key, _) in storage.dictionaryRepresentation() {\n            storage.removeObject(forKey: key)\n        }\n    }\n}\n",
+            "href": null
+          }
+        ],
+        "language": "swift"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "251d25a0-465e-8087-974d-f08d09c8a83e",
+      "parent": {
+        "type": "page_id",
+        "page_id": "24ed25a0-465e-8060-8df0-de16d3b05ec8"
+      },
+      "created_time": "2025-08-16T06:43:00.000Z",
+      "last_edited_time": "2025-08-16T06:43:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "388d8028-1f48-4bfc-aee5-e43c9255d1e8"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "388d8028-1f48-4bfc-aee5-e43c9255d1e8"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "251d25a0-465e-8018-8c10-cdefe6fc87ba",
+      "parent": {
+        "type": "page_id",
+        "page_id": "24ed25a0-465e-8060-8df0-de16d3b05ec8"
+      },
+      "created_time": "2025-08-16T06:43:00.000Z",
+      "last_edited_time": "2025-08-16T06:43:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "388d8028-1f48-4bfc-aee5-e43c9255d1e8"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "388d8028-1f48-4bfc-aee5-e43c9255d1e8"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "251d25a0-465e-8027-aeef-db33080426e9",
+      "parent": {
+        "type": "page_id",
+        "page_id": "24ed25a0-465e-8060-8df0-de16d3b05ec8"
+      },
+      "created_time": "2025-08-16T06:09:00.000Z",
+      "last_edited_time": "2025-08-16T06:43:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "388d8028-1f48-4bfc-aee5-e43c9255d1e8"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "388d8028-1f48-4bfc-aee5-e43c9255d1e8"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "heading_2",
+      "heading_2": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "앱에서 사용하기",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "앱에서 사용하기",
+            "href": null
+          }
+        ],
+        "is_toggleable": false,
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "251d25a0-465e-8013-83cb-edd9d8f67d90",
+      "parent": {
+        "type": "page_id",
+        "page_id": "24ed25a0-465e-8060-8df0-de16d3b05ec8"
+      },
+      "created_time": "2025-08-16T06:46:00.000Z",
+      "last_edited_time": "2025-08-16T07:05:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "388d8028-1f48-4bfc-aee5-e43c9255d1e8"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "388d8028-1f48-4bfc-aee5-e43c9255d1e8"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "지금까지 구현한 기능을 React Native 앱에서 사용하는 단계가 남았다.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "지금까지 구현한 기능을 React Native 앱에서 사용하는 단계가 남았다.",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "251d25a0-465e-8095-a84b-debcae8e5115",
+      "parent": {
+        "type": "page_id",
+        "page_id": "24ed25a0-465e-8060-8df0-de16d3b05ec8"
+      },
+      "created_time": "2025-08-16T06:52:00.000Z",
+      "last_edited_time": "2025-08-16T07:23:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "388d8028-1f48-4bfc-aee5-e43c9255d1e8"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "388d8028-1f48-4bfc-aee5-e43c9255d1e8"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "초반부에 specs 폴더에 추가했던 NativeLocalStorage.ts 파일로부터 ",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "초반부에 specs 폴더에 추가했던 NativeLocalStorage.ts 파일로부터 ",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": "import",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": true,
+              "color": "default"
+            },
+            "plain_text": "import",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": " 하면 되어 간단하다.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": " 하면 되어 간단하다.",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "251d25a0-465e-8017-9554-d0336dd2cb03",
+      "parent": {
+        "type": "page_id",
+        "page_id": "24ed25a0-465e-8060-8df0-de16d3b05ec8"
+      },
+      "created_time": "2025-08-16T06:51:00.000Z",
+      "last_edited_time": "2025-08-16T06:51:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "388d8028-1f48-4bfc-aee5-e43c9255d1e8"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "388d8028-1f48-4bfc-aee5-e43c9255d1e8"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "251d25a0-465e-80b1-b444-c4d2b76ea3f0",
+      "parent": {
+        "type": "page_id",
+        "page_id": "24ed25a0-465e-8060-8df0-de16d3b05ec8"
+      },
+      "created_time": "2025-08-16T06:50:00.000Z",
+      "last_edited_time": "2025-08-16T06:50:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "388d8028-1f48-4bfc-aee5-e43c9255d1e8"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "388d8028-1f48-4bfc-aee5-e43c9255d1e8"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "code",
+      "code": {
+        "caption": [
+          {
+            "type": "text",
+            "text": {
+              "content": "App.tsx",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "App.tsx",
+            "href": null
+          }
+        ],
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "import React from 'react';\nimport {\n  SafeAreaView,\n  StyleSheet,\n  Text,\n  TextInput,\n  Button,\n} from 'react-native';\nimport NativeLocalStorage from './specs/NativeLocalStorage';\n\nfunction App(): React.JSX.Element {\n  const [value, setValue] = React.useState<string | null>(null);\n\n  const [editingValue, setEditingValue] = React.useState<string | null>(null);\n\n  React.useEffect(() => {\n    const storedValue = NativeLocalStorage?.getItem('myKey');\n    setValue(storedValue ?? '');\n  }, []);\n\n  function saveValue() {\n    NativeLocalStorage?.setItem(editingValue ?? '', 'myKey');\n    setValue(editingValue);\n  }\n\n  function clearAll() {\n    NativeLocalStorage?.clear();\n    setValue('');\n  }\n\n  function deleteValue() {\n    NativeLocalStorage?.removeItem('myKey');\n    setValue('');\n  }\n\n  return (\n    <SafeAreaView style={{ flex: 1 }}>\n      <Text style={styles.text}>\n        Current stored value is: {value ?? 'No Value'}\n      </Text>\n      <TextInput\n        placeholder=\"Enter the text you want to store\"\n        style={styles.textInput}\n        onChangeText={setEditingValue}\n      />\n      <Button title=\"Save\" onPress={saveValue} />\n      <Button title=\"Delete\" onPress={deleteValue} />\n      <Button title=\"Clear\" onPress={clearAll} />\n    </SafeAreaView>\n  );\n}\n\nconst styles = StyleSheet.create({\n  text: {\n    margin: 10,\n    fontSize: 20,\n  },\n  textInput: {\n    margin: 10,\n    height: 40,\n    borderColor: 'black',\n    borderWidth: 1,\n    paddingLeft: 5,\n    paddingRight: 5,\n    borderRadius: 5,\n  },\n});\n\nexport default App;\n",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "import React from 'react';\nimport {\n  SafeAreaView,\n  StyleSheet,\n  Text,\n  TextInput,\n  Button,\n} from 'react-native';\nimport NativeLocalStorage from './specs/NativeLocalStorage';\n\nfunction App(): React.JSX.Element {\n  const [value, setValue] = React.useState<string | null>(null);\n\n  const [editingValue, setEditingValue] = React.useState<string | null>(null);\n\n  React.useEffect(() => {\n    const storedValue = NativeLocalStorage?.getItem('myKey');\n    setValue(storedValue ?? '');\n  }, []);\n\n  function saveValue() {\n    NativeLocalStorage?.setItem(editingValue ?? '', 'myKey');\n    setValue(editingValue);\n  }\n\n  function clearAll() {\n    NativeLocalStorage?.clear();\n    setValue('');\n  }\n\n  function deleteValue() {\n    NativeLocalStorage?.removeItem('myKey');\n    setValue('');\n  }\n\n  return (\n    <SafeAreaView style={{ flex: 1 }}>\n      <Text style={styles.text}>\n        Current stored value is: {value ?? 'No Value'}\n      </Text>\n      <TextInput\n        placeholder=\"Enter the text you want to store\"\n        style={styles.textInput}\n        onChangeText={setEditingValue}\n      />\n      <Button title=\"Save\" onPress={saveValue} />\n      <Button title=\"Delete\" onPress={deleteValue} />\n      <Button title=\"Clear\" onPress={clearAll} />\n    </SafeAreaView>\n  );\n}\n\nconst styles = StyleSheet.create({\n  text: {\n    margin: 10,\n    fontSize: 20,\n  },\n  textInput: {\n    margin: 10,\n    height: 40,\n    borderColor: 'black',\n    borderWidth: 1,\n    paddingLeft: 5,\n    paddingRight: 5,\n    borderRadius: 5,\n  },\n});\n\nexport default App;\n",
+            "href": null
+          }
+        ],
+        "language": "javascript"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "251d25a0-465e-8043-af4f-d732568bd16c",
+      "parent": {
+        "type": "page_id",
+        "page_id": "24ed25a0-465e-8060-8df0-de16d3b05ec8"
+      },
+      "created_time": "2025-08-16T07:05:00.000Z",
+      "last_edited_time": "2025-08-16T07:05:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "388d8028-1f48-4bfc-aee5-e43c9255d1e8"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "388d8028-1f48-4bfc-aee5-e43c9255d1e8"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "251d25a0-465e-806c-9ef1-cb4bb65dc8f0",
+      "parent": {
+        "type": "page_id",
+        "page_id": "24ed25a0-465e-8060-8df0-de16d3b05ec8"
+      },
+      "created_time": "2025-08-16T07:01:00.000Z",
+      "last_edited_time": "2025-08-16T07:18:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "388d8028-1f48-4bfc-aee5-e43c9255d1e8"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "388d8028-1f48-4bfc-aee5-e43c9255d1e8"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "빌드나 테스트상에 문제가 없다면 성공적으로 iOS 네이티브 모듈을 구현한 것이다.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "빌드나 테스트상에 문제가 없다면 성공적으로 iOS 네이티브 모듈을 구현한 것이다.",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "251d25a0-465e-8057-a96b-cda9c5acdfc8",
+      "parent": {
+        "type": "page_id",
+        "page_id": "24ed25a0-465e-8060-8df0-de16d3b05ec8"
+      },
+      "created_time": "2025-08-16T07:18:00.000Z",
+      "last_edited_time": "2025-08-16T07:19:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "388d8028-1f48-4bfc-aee5-e43c9255d1e8"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "388d8028-1f48-4bfc-aee5-e43c9255d1e8"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "안드로이드도 문서를 차근차근히 따라간다면 문제는 없을것이다.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "안드로이드도 문서를 차근차근히 따라간다면 문제는 없을것이다.",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "251d25a0-465e-8008-b7c2-ed9663486d56",
+      "parent": {
+        "type": "page_id",
+        "page_id": "24ed25a0-465e-8060-8df0-de16d3b05ec8"
+      },
+      "created_time": "2025-08-16T07:14:00.000Z",
+      "last_edited_time": "2025-08-16T07:18:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "388d8028-1f48-4bfc-aee5-e43c9255d1e8"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "388d8028-1f48-4bfc-aee5-e43c9255d1e8"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "251d25a0-465e-80cc-9c72-c736b607cf39",
+      "parent": {
+        "type": "page_id",
+        "page_id": "24ed25a0-465e-8060-8df0-de16d3b05ec8"
+      },
+      "created_time": "2025-08-16T07:13:00.000Z",
+      "last_edited_time": "2025-08-16T07:20:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "388d8028-1f48-4bfc-aee5-e43c9255d1e8"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "388d8028-1f48-4bfc-aee5-e43c9255d1e8"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "앞으로 다른 기능들을 하나씩 추가해보면서 블로그에 기록을 남겨볼까 한다.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "앞으로 다른 기능들을 하나씩 추가해보면서 블로그에 기록을 남겨볼까 한다.",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "251d25a0-465e-80e1-afb1-fdee3d1bf0d7",
+      "parent": {
+        "type": "page_id",
+        "page_id": "24ed25a0-465e-8060-8df0-de16d3b05ec8"
+      },
+      "created_time": "2025-08-16T07:19:00.000Z",
+      "last_edited_time": "2025-08-16T07:19:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "388d8028-1f48-4bfc-aee5-e43c9255d1e8"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "388d8028-1f48-4bfc-aee5-e43c9255d1e8"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "네이티브 모듈 개발에 자신감을 붙힐 수 있기를 바라며.. ",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "네이티브 모듈 개발에 자신감을 붙힐 수 있기를 바라며.. ",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "251d25a0-465e-8003-89d8-fd117fff8672",
+      "parent": {
+        "type": "page_id",
+        "page_id": "24ed25a0-465e-8060-8df0-de16d3b05ec8"
+      },
+      "created_time": "2025-08-16T07:07:00.000Z",
+      "last_edited_time": "2025-08-16T07:08:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "388d8028-1f48-4bfc-aee5-e43c9255d1e8"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "388d8028-1f48-4bfc-aee5-e43c9255d1e8"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "251d25a0-465e-806c-8b74-c2f0c3b7b288",
+      "parent": {
+        "type": "page_id",
+        "page_id": "24ed25a0-465e-8060-8df0-de16d3b05ec8"
+      },
+      "created_time": "2025-08-16T07:09:00.000Z",
+      "last_edited_time": "2025-08-16T07:09:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "388d8028-1f48-4bfc-aee5-e43c9255d1e8"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "388d8028-1f48-4bfc-aee5-e43c9255d1e8"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "251d25a0-465e-805b-b0da-cdc21e09f326",
+      "parent": {
+        "type": "page_id",
+        "page_id": "24ed25a0-465e-8060-8df0-de16d3b05ec8"
+      },
+      "created_time": "2025-08-16T06:26:00.000Z",
+      "last_edited_time": "2025-08-16T07:09:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "388d8028-1f48-4bfc-aee5-e43c9255d1e8"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "388d8028-1f48-4bfc-aee5-e43c9255d1e8"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "divider",
+      "divider": {},
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "251d25a0-465e-807c-97ff-e12fb3b40e0c",
+      "parent": {
+        "type": "page_id",
+        "page_id": "24ed25a0-465e-8060-8df0-de16d3b05ec8"
+      },
+      "created_time": "2025-08-16T07:09:00.000Z",
+      "last_edited_time": "2025-08-16T07:09:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "388d8028-1f48-4bfc-aee5-e43c9255d1e8"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "388d8028-1f48-4bfc-aee5-e43c9255d1e8"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "24fd25a0-465e-807c-9cc1-d0af2cfcc67d",
+      "parent": {
+        "type": "page_id",
+        "page_id": "24ed25a0-465e-8060-8df0-de16d3b05ec8"
+      },
+      "created_time": "2025-08-14T11:30:00.000Z",
+      "last_edited_time": "2025-08-16T07:09:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "388d8028-1f48-4bfc-aee5-e43c9255d1e8"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "388d8028-1f48-4bfc-aee5-e43c9255d1e8"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "heading_2",
+      "heading_2": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "그 외 트러블 슈팅",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "그 외 트러블 슈팅",
+            "href": null
+          }
+        ],
+        "is_toggleable": false,
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "251d25a0-465e-80b6-8ea3-de49f270aa9f",
+      "parent": {
+        "type": "page_id",
+        "page_id": "24ed25a0-465e-8060-8df0-de16d3b05ec8"
+      },
+      "created_time": "2025-08-16T07:09:00.000Z",
+      "last_edited_time": "2025-08-16T07:09:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "388d8028-1f48-4bfc-aee5-e43c9255d1e8"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "388d8028-1f48-4bfc-aee5-e43c9255d1e8"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "24fd25a0-465e-8047-9c3c-d58fc2d34179",
+      "parent": {
+        "type": "page_id",
+        "page_id": "24ed25a0-465e-8060-8df0-de16d3b05ec8"
+      },
+      "created_time": "2025-08-14T11:30:00.000Z",
+      "last_edited_time": "2025-08-16T06:13:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "388d8028-1f48-4bfc-aee5-e43c9255d1e8"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "388d8028-1f48-4bfc-aee5-e43c9255d1e8"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Codegen 으로 네이티브 코드 생성 이후 pod 패키지 설치할때 아래 오류 발생하는경우",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Codegen 으로 네이티브 코드 생성 이후 pod 패키지 설치할때 아래 오류 발생하는경우",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "24fd25a0-465e-8072-a50c-d55fe4133b4d",
+      "parent": {
+        "type": "page_id",
+        "page_id": "24ed25a0-465e-8060-8df0-de16d3b05ec8"
+      },
+      "created_time": "2025-08-14T11:31:00.000Z",
+      "last_edited_time": "2025-08-14T11:31:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "388d8028-1f48-4bfc-aee5-e43c9255d1e8"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "388d8028-1f48-4bfc-aee5-e43c9255d1e8"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "code",
+      "code": {
+        "caption": [],
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "bundler: failed to load command: pod (/playground-rn/vendor/bundle/ruby/2.6.0/bin/pod)",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "bundler: failed to load command: pod (/playground-rn/vendor/bundle/ruby/2.6.0/bin/pod)",
+            "href": null
+          }
+        ],
+        "language": "shell"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "251d25a0-465e-807c-a5c0-e2b87f4e32b8",
+      "parent": {
+        "type": "page_id",
+        "page_id": "24ed25a0-465e-8060-8df0-de16d3b05ec8"
+      },
+      "created_time": "2025-08-16T06:13:00.000Z",
+      "last_edited_time": "2025-08-16T06:13:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "388d8028-1f48-4bfc-aee5-e43c9255d1e8"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "388d8028-1f48-4bfc-aee5-e43c9255d1e8"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "24fd25a0-465e-80cb-9be9-fcd3eeb3bfc2",
+      "parent": {
+        "type": "page_id",
+        "page_id": "24ed25a0-465e-8060-8df0-de16d3b05ec8"
+      },
+      "created_time": "2025-08-14T11:35:00.000Z",
+      "last_edited_time": "2025-08-16T07:20:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "388d8028-1f48-4bfc-aee5-e43c9255d1e8"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "388d8028-1f48-4bfc-aee5-e43c9255d1e8"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "new architecture 활성화 커맨드로 재설치 시도",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "new architecture 활성화 커맨드로 재설치 시도",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "blocks": []
+    },
+    {
+      "object": "block",
+      "id": "251d25a0-465e-80a7-bc68-d5552eecdacd",
+      "parent": {
+        "type": "page_id",
+        "page_id": "24ed25a0-465e-8060-8df0-de16d3b05ec8"
+      },
+      "created_time": "2025-08-16T06:13:00.000Z",
+      "last_edited_time": "2025-08-16T06:13:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "388d8028-1f48-4bfc-aee5-e43c9255d1e8"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "388d8028-1f48-4bfc-aee5-e43c9255d1e8"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "code",
+      "code": {
+        "caption": [],
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "$ RCT_NEW_ARCH_ENABLED=1 bundle exec pod install ",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "$ RCT_NEW_ARCH_ENABLED=1 bundle exec pod install ",
+            "href": null
+          }
+        ],
+        "language": "shell"
+      },
+      "blocks": []
+    }
+  ]
+}
