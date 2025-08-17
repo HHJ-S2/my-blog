@@ -52,7 +52,7 @@ export default function Page() {
           <div className="basis-2/3">
             <p className="text-base">React Native 앱 프론트엔드 개발을 담당하였습니다.</p>
             <p className="text-base">
-              킥보드 주차 서비스부터 컨테이너 현장 직원용 앱까지 다양한 도메인의 서비스를 개발 하며, 크로스 플랫폼 앱에
+              킥보드 주차 서비스부터 컨테이너 현장 직원용 앱까지 다양한 도메인의 서비스를 개발하며, 크로스 플랫폼 앱에
               대한 이해와 경험을 넓힐 수 있었습니다.
             </p>
           </div>
@@ -65,8 +65,8 @@ export default function Page() {
           </div>
           <div className="basis-2/3">
             <p className="text-base">
-              태양열 발전소 모니터링 홈페이지인 Razzler 신규 관제실 모니터링 웹 프론트엔드 개 발을 담당하였습니다. Chart
-              js 라이브러 리 와 SVG를 활용하여 차트와 그래프로 데이터시각화를 위해 노력했습니다.
+              태양열 발전소 모니터링 홈페이지인 Razzler 신규 관제실 모니터링 웹 프론트엔드 개발을 담당하였습니다. Chart
+              js 라이브러리와 SVG를 활용하여 차트와 그래프로 데이터시각화를 위해 노력했습니다.
             </p>
           </div>
         </div>
@@ -78,8 +78,8 @@ export default function Page() {
           </div>
           <div className="basis-2/3">
             <p className="text-base">
-              기업 홍보 및 소개를 전문으 로 하는 웹사이트 퍼블 리 싱 업무를 담당했습니다. HTML, CSS, Bootstrap로 반응형
-              레이아웃 구현하였으며, Jquery를 사용하여 UI 개 을 하였습니다.
+              기업 홍보 및 소개를 전문으로 하는 웹사이트 퍼블리싱 업무를 담당했습니다. HTML, CSS, Bootstrap로 반응형
+              레이아웃 구현하였으며, Jquery를 사용하여 UI 개발을 하였습니다.
             </p>
           </div>
         </div>
