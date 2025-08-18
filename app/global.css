@@ -46,5 +46,13 @@ html {
   .notion {
     --notion-font: "Pretendard", ui-sans-serif, system-ui, apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica,
       "Apple Color Emoji", Arial, sans-serif, "Segoe UI Emoji", "Segoe UI Symbol";
+
+    .notion-title {
+      @apply text-4xl;
+    }
+
+    .notion-paragraph {
+      @apply text-base;
+    }
   }
 }

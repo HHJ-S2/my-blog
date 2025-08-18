@@ -14,12 +14,17 @@ export function BlogPosts() {
         .map((post) => (
           <Link
             key={post.slug}
-            className="flex flex-col space-y-1 mb-4 px-6 py-8 rounded-xl  bg-white  dark:bg-gray-950 border border-gray-200 dark:border-gray-600  dark:bg-gray-800"
+            className="flex flex-row mb-4 px-6 py-8 rounded-xl bg-white dark:bg-gray-950 border border-gray-100 dark:border-gray-600 dark:bg-gray-800"
             href={`/blog/${post.slug}`}
           >
-            <div className="w-full flex flex-col md:flex-row space-x-0 md:space-x-2">
+            <div className="w-full flex flex-col">
               <p className="text-gray-400 dark:text-gray-400 text-xs tabular-nums">{post.date}</p>
-              <p className="text-gray-700 dark:text-gray-100 font-semibold text-lg">{post.title}</p>
+              <p className="text-gray-700 dark:text-gray-100 font-semibold text-lg text-ellipsis overflow-hidden whitespace-nowrap">
+                {post.title}
+              </p>
+              <p className="mt-1 text-gray-600 dark:text-gray-100 text-base text-ellipsis overflow-hidden whitespace-nowrap">
+                {post.description}
+              </p>
               <div className="mt-2">
                 {post.categories.map((category) => (
                   <span
